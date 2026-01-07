@@ -43,8 +43,8 @@ Project ini cocok untuk **belajar CRUD**, **konsep HTTP API**, dan **penulisan d
 
 ### 1. Clone Repository
 
-git clone https://github.com/ursecsoul/golang-todo-api.git
-cd todo-api
+- git clone https://github.com/ursecsoul/golang-todo-api.git
+- cd golang-todo-api
 
 ### 2. Jalankan Server
 
@@ -228,4 +228,5 @@ curl -X POST http://localhost:8080/todos \
 
 Penulis
 [Adinda Rachmania]
+
 
