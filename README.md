@@ -35,7 +35,7 @@ Project ini cocok untuk **belajar CRUD**, **konsep HTTP API**, dan **penulisan d
 - ├── routes/
 - │   └── routes.go
 - └── storage/
--    └── memory.go
+- │   └── memory.go
 
 ---
 
@@ -228,3 +228,4 @@ curl -X POST http://localhost:8080/todos \
 
 Penulis
 [Adinda Rachmania]
+
