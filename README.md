@@ -208,7 +208,7 @@ Todo tidak ditemukan
 
 curl -X GET http://localhost:8080/todos
 
-curl -X POST http://localhost:8080/todos \
+curl -i -X POST http://localhost:8080/todos \
 -H "Content-Type: application/json" \
 -d '{"title":"Belajar API","description":"CRUD Golang"}'
 
@@ -228,5 +228,6 @@ curl -X POST http://localhost:8080/todos \
 
 Penulis
 [Adinda Rachmania]
+
 
 
